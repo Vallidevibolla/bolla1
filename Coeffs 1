@@ -5,6 +5,10 @@ Original file is located at
        https://colab.research.google.com/github/Vallidevibolla/ass/blob/main/tri_sss.ipynb#scrollTo=_qclhhOTwHkU
 """
 
+#Code by B.Valli Devi
+#June 23, 2021
+#Drawing a right angled triangle ABD
+
 import numpy as np
 import matplotlib.pyplot as plt
 
