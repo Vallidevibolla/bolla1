@@ -38,11 +38,11 @@ plt.plot(x_CA[0,:],x_CA[1,:],label='$CA$')
 plt.plot(x_circ[0,:],x_circ[1,:],label='$incircle$')
 
 plt.plot(A[0], A[1], 'o')
-plt.text(A[0] * (1 + 0.1), A[1] * (2 - 0.1) , 'A')
+plt.text(A[0] * (1 + 0.1), A[1] * (1 - 0.1) , 'A')
 plt.plot(B[0], B[1], 'o')
 plt.text(B[0] * (1 - 0.2), B[1] * (1) , 'B')
 plt.plot(C[0], C[1], 'o')
-plt.text(C[0] * (1 + 0.03), C[1] * (2 - 0.1) , 'C')
+plt.text(C[0] * (1 + 0.03), C[1] * (1 - 0.1) , 'C')
 plt.plot(I[0], I[1], 'o')
 plt.text(I[0] * (1 + 0.1), I[1] * (2 - 0.1) , 'I')
 
